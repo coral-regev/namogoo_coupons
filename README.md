@@ -4,7 +4,8 @@
 Docker installed on your local machine
 
 ### Run the following from terminal:
-`cd` into project directory (eg. `cd ~/Downloads/Namogoo/namogoo`)
+`cd` into project directory (eg. `cd ~/Downloads/namogoo_coupons/namogoo`)
+
 `docker-compose up`
 
 ### API Documentation
